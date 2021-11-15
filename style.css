@@ -3,6 +3,7 @@ body {
    font-weight: normal;
    font-style: normal;
    max-width: 800px;
+   padding: 5px;
    margin: auto;
    color: white;
    background: black;
